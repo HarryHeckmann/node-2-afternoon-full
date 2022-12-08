@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/HarryHeckmann/node-2-afternoon#readme",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.20.1",
     "dotenv": "^6.2.0",
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "massive": "^5.7.3"
   }
 }
